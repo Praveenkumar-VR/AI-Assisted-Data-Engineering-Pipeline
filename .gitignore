@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+landing/*
+!landing/.gitkeep
+data/processing/*
+data/archive/*
+data/error/*
+data/output/*
